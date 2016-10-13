@@ -1,4 +1,5 @@
-NeuralNetwork(CS231n)
+<h1>NeuralNetwork(CS231n)</h1>
+
 CS231n Convolutional Neural Networks for Visual Recognition
 In this assignment you will practice putting together a simple image classification pipeline, based on the k-Nearest Neighbor or the SVM/Softmax classifier. The goals of this assignment are as follows:
 
